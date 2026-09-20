@@ -16,7 +16,7 @@ When a lender approves a loan, there's always a risk the borrower won't pay it b
 
 ```
 ├── README.md
-├── Loan_Default_Analysis.ipynb   # Main analysis notebook
+├── loan_default.ipynb   # Main analysis notebook
 ├── loan_default.csv               # Source dataset
 ├── images/                       # Chart previews used in this README
     ├── default_rate_overview.png
